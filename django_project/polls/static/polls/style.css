@@ -1,0 +1,12 @@
+/* body {
+    background: white url("images/background.gif") no-repeat;
+} */
+
+ul {
+    list-style-type: decimal;
+}
+
+li a {
+    color: green;
+    text-decoration: none;
+}
